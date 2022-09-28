@@ -1,4 +1,3 @@
 def test
-  puts "first string"
-  puts "a"
+  puts 'a'
 end
