@@ -1,4 +1,4 @@
 def test
   puts 'a'
-  puts 'b'
+  puts 'c'
 end
